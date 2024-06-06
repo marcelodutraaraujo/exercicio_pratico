@@ -1,6 +1,6 @@
 # exercicio_pratico
 
-A new Flutter project.
+Segue o exercício prático com Flutter.
 
 ## Getting Started
 
