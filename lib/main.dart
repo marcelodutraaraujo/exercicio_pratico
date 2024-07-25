@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './screens/home.dart';
+import 'screens/myhomepage.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home: const MyHomePage(
-        title: 'Home - Atividade III'
+        title: 'App01 Apresentação'
       ),
     );
   }
